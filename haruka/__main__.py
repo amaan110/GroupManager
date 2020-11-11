@@ -28,18 +28,14 @@ I am Life And Group Manager Bot 😁
 Just do some simple steps to keep safe from spam
 /antispam on 
 
-Rises From Legendary Caves To Wake Up A [Legend](t.me/Criminal786)
-
-Special thanks to [this person](t.me/Kek_NoiCe) for helping me.
+Rises From Legendary Caves To Wake Up A [Legend](t.me/@I_AM_PAWANBIR)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
-Now add me to your group [here](http://t.me/criminal786bot?startgroup=true).
+Now add me to your group [here](http://t.me/JATTGROUPMANAGINGBOT?startgroup=true).
 
-Support group is [here](t.me/criminal786botsupport)
-
-Deploy Your Own BoT like Me Just Click [here](https://github.com/amaan110/GroupManager)
-"""
+HATERS KE MAA KE CHUT MA MERA LUN WITHOUT OIL
+""""
 
 IMPORTED = {}
 MIGRATEABLE = []
