@@ -1,7 +1,7 @@
 future
 emoji
 requests
-sqlalchemy
+sqlalchemy>=1.2
 python-telegram-bot==11.1.0
 psycopg2
 feedparser
@@ -20,9 +20,10 @@ PyLyrics
 hurry.filesize
 #translator
 googletrans==3.1.0a0
+
 tldextract
 PyYAML
 pyowm
-wikipedia
+wikipedia>=1.4.0
 bleach
 markdown2
